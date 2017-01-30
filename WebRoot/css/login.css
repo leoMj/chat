@@ -1,0 +1,134 @@
+body{
+min-width: 1200px; 
+background-color: #e7e8eb; 
+font-family: "Microsoft YaHei","Î¢ÈíÑÅºÚ"£¬Helvetica,"ºÚÌå"£¬Arial,Tahoma; 
+font-size: 14px; 
+line-height: 1.6; 
+margin: 0; 
+} 
+.head_box{
+position: relative; 
+background-color: #fff; 
+border-top: 4px solid #44b549; 
+border-bottom: 1px solid #d9dadc; 
+} 
+.head_box .inner.wrp{
+width: 1200px; 
+margin-left: auto; 
+margin-right: auto; 
+} 
+.head_box .inner{
+height: 60px; 
+} 
+.logo{
+float: left; 
+padding-top: 8px; 
+font-size: 24px; 
+} 
+.logo a{
+display: block; 
+width: 248px; 
+height: 40px; 
+overflow: hidden; 
+text-decoration: none; 
+color: #595959; 
+margin-top: -15px; 
+} 
+.account{
+float: rightright; 
+padding-top: 10px; 
+} 
+.account_meta{
+display: inline-block; 
+vertical-align: top; 
+font-size: 14px; 
+} 
+.account_meta a{
+text-decoration: none; 
+color: #222; 
+display: inline-block; 
+margin-top: 18px; 
+} 
+#body{
+width: 1200px; 
+margin-left: auto; 
+margin-right: auto; 
+padding: 2.5em 0 3.5em; 
+} 
+.container_box{
+min-height: 650px; 
+overflow: hidden; 
+border: 1px solid #d3d3d3; 
+background-color: #fff; 
+box-shadow: 0 2px 2px 0 #e3e3e3; 
+border-radius: 3px; 
+} 
+.login_panel_hd{
+height: 140px; 
+margin-bottom: 50px; 
+background: transparent url(/images/weixin2.png) no-repeat 0 0; 
+} 
+.login_panel_hd .inner{
+padding: 24px; 
+} 
+.login_panel_hd .system_info{
+position: relative; 
+margin-left: 120px; 
+color: #fff; 
+
+} 
+dt{
+font-size: 22px; 
+} 
+dd{
+font-size: 16px; 
+margin: 0px; 
+} 
+.login_panel_bd{
+margin: 0 50px; 
+} 
+.login_panel_bd .wxlogin_wrp{
+text-align: center; 
+} 
+.login_panel_bd .wxlogin_desc{
+margin-bottom: 20px; 
+} 
+.login_panel_bd .wxlogin_desc h3{
+font-weight: 400; 
+font-style: normal; 
+font-size: 16px; 
+margin: 0; 
+} 
+.login_panel_bd .wxlogin_desc p{
+margin: 0px; 
+} 
+.login_panel_bd .wxlogin_wrp .wxlogin_opr .btn_line{
+padding-bottom: 20px; 
+} 
+.btn{
+min-width: 60px; 
+display: inline-block; 
+overflow: visible; 
+padding: 0 22px; 
+line-height: 30px; 
+vertical-align: middle; 
+text-align: center; 
+font-size: 14px; 
+border-width: 1px; 
+border-style: solid; 
+cursor: pointer; 
+color: #fff; 
+} 
+.btn_primary{
+background-color: #44b549; 
+} 
+.icon_wxlogo_inbtn{
+vertical-align: middle; 
+margin-right: 5px; 
+border: 0; 
+} 
+a{
+text-decoration: none; 
+color: #459ae9; 
+outline: 0; 
+} 
